@@ -1,0 +1,1057 @@
+DISTRICT,DATE,COUNT
+Barking and Dagenham,2017-01-01,1734
+Barking and Dagenham,2017-02-01,1747
+Barking and Dagenham,2017-03-01,2029
+Barking and Dagenham,2017-04-01,1881
+Barking and Dagenham,2017-05-01,2135
+Barking and Dagenham,2017-06-01,2080
+Barking and Dagenham,2017-07-01,2268
+Barking and Dagenham,2017-08-01,2053
+Barking and Dagenham,2017-09-01,1942
+Barking and Dagenham,2017-10-01,2073
+Barking and Dagenham,2017-11-01,1880
+Barking and Dagenham,2017-12-01,1704
+Barking and Dagenham,2018-01-01,1775
+Barking and Dagenham,2018-02-01,1686
+Barking and Dagenham,2018-03-01,1899
+Barking and Dagenham,2018-04-01,1861
+Barking and Dagenham,2018-05-01,1860
+Barking and Dagenham,2018-06-01,1944
+Barking and Dagenham,2018-07-01,2076
+Barking and Dagenham,2018-08-01,1829
+Barking and Dagenham,2018-09-01,1795
+Barking and Dagenham,2018-10-01,2060
+Barking and Dagenham,2018-11-01,1858
+Barking and Dagenham,2018-12-01,1814
+Barking and Dagenham,2019-01-01,1885
+Barking and Dagenham,2019-02-01,1866
+Barking and Dagenham,2019-03-01,1966
+Barking and Dagenham,2019-04-01,1932
+Barking and Dagenham,2019-05-01,2114
+Barking and Dagenham,2019-06-01,2035
+Barking and Dagenham,2019-07-01,2077
+Barking and Dagenham,2019-08-01,1844
+Barnet,2017-01-01,2566
+Barnet,2017-02-01,2450
+Barnet,2017-03-01,2903
+Barnet,2017-04-01,2702
+Barnet,2017-05-01,2893
+Barnet,2017-06-01,2800
+Barnet,2017-07-01,3114
+Barnet,2017-08-01,2847
+Barnet,2017-09-01,2724
+Barnet,2017-10-01,2938
+Barnet,2017-11-01,2924
+Barnet,2017-12-01,2546
+Barnet,2018-01-01,2685
+Barnet,2018-02-01,2496
+Barnet,2018-03-01,2834
+Barnet,2018-04-01,2869
+Barnet,2018-05-01,2878
+Barnet,2018-06-01,2952
+Barnet,2018-07-01,3017
+Barnet,2018-08-01,2802
+Barnet,2018-09-01,2819
+Barnet,2018-10-01,3277
+Barnet,2018-11-01,3120
+Barnet,2018-12-01,2865
+Barnet,2019-01-01,2924
+Barnet,2019-02-01,3056
+Barnet,2019-03-01,3391
+Barnet,2019-04-01,3076
+Barnet,2019-05-01,3165
+Barnet,2019-06-01,3297
+Barnet,2019-07-01,3318
+Barnet,2019-08-01,2897
+Bexley,2017-01-01,1457
+Bexley,2017-02-01,1454
+Bexley,2017-03-01,1608
+Bexley,2017-04-01,1455
+Bexley,2017-05-01,1539
+Bexley,2017-06-01,1599
+Bexley,2017-07-01,1686
+Bexley,2017-08-01,1669
+Bexley,2017-09-01,1673
+Bexley,2017-10-01,1861
+Bexley,2017-11-01,1640
+Bexley,2017-12-01,1429
+Bexley,2018-01-01,1589
+Bexley,2018-02-01,1354
+Bexley,2018-03-01,1491
+Bexley,2018-04-01,1568
+Bexley,2018-05-01,1635
+Bexley,2018-06-01,1638
+Bexley,2018-07-01,1558
+Bexley,2018-08-01,1627
+Bexley,2018-09-01,1610
+Bexley,2018-10-01,1728
+Bexley,2018-11-01,1634
+Bexley,2018-12-01,1727
+Bexley,2019-01-01,1838
+Bexley,2019-02-01,1574
+Bexley,2019-03-01,1750
+Bexley,2019-04-01,1850
+Bexley,2019-05-01,1950
+Bexley,2019-06-01,1792
+Bexley,2019-07-01,1823
+Bexley,2019-08-01,1835
+Brent,2017-01-01,2827
+Brent,2017-02-01,2729
+Brent,2017-03-01,3219
+Brent,2017-04-01,3022
+Brent,2017-05-01,3495
+Brent,2017-06-01,3223
+Brent,2017-07-01,3352
+Brent,2017-08-01,3354
+Brent,2017-09-01,3177
+Brent,2017-10-01,3541
+Brent,2017-11-01,3231
+Brent,2017-12-01,3011
+Brent,2018-01-01,3018
+Brent,2018-02-01,2848
+Brent,2018-03-01,3066
+Brent,2018-04-01,3095
+Brent,2018-05-01,3343
+Brent,2018-06-01,3407
+Brent,2018-07-01,3563
+Brent,2018-08-01,3285
+Brent,2018-09-01,3263
+Brent,2018-10-01,3500
+Brent,2018-11-01,3376
+Brent,2018-12-01,3026
+Brent,2019-01-01,3145
+Brent,2019-02-01,3056
+Brent,2019-03-01,3396
+Brent,2019-04-01,3137
+Brent,2019-05-01,3249
+Brent,2019-06-01,3445
+Brent,2019-07-01,3446
+Brent,2019-08-01,3115
+Bromley,2017-01-01,2140
+Bromley,2017-02-01,2174
+Bromley,2017-03-01,2638
+Bromley,2017-04-01,2332
+Bromley,2017-05-01,2413
+Bromley,2017-06-01,2390
+Bromley,2017-07-01,2471
+Bromley,2017-08-01,2419
+Bromley,2017-09-01,2260
+Bromley,2017-10-01,2301
+Bromley,2017-11-01,2354
+Bromley,2017-12-01,2161
+Bromley,2018-01-01,2350
+Bromley,2018-02-01,2003
+Bromley,2018-03-01,2300
+Bromley,2018-04-01,2343
+Bromley,2018-05-01,2400
+Bromley,2018-06-01,2433
+Bromley,2018-07-01,2355
+Bromley,2018-08-01,2255
+Bromley,2018-09-01,2327
+Bromley,2018-10-01,2465
+Bromley,2018-11-01,2316
+Bromley,2018-12-01,2311
+Bromley,2019-01-01,2363
+Bromley,2019-02-01,2298
+Bromley,2019-03-01,2501
+Bromley,2019-04-01,2329
+Bromley,2019-05-01,2549
+Bromley,2019-06-01,2507
+Bromley,2019-07-01,2635
+Bromley,2019-08-01,2496
+Camden,2017-01-01,3082
+Camden,2017-02-01,3221
+Camden,2017-03-01,3749
+Camden,2017-04-01,3572
+Camden,2017-05-01,4164
+Camden,2017-06-01,4123
+Camden,2017-07-01,4328
+Camden,2017-08-01,4227
+Camden,2017-09-01,4011
+Camden,2017-10-01,4359
+Camden,2017-11-01,4005
+Camden,2017-12-01,3488
+Camden,2018-01-01,3782
+Camden,2018-02-01,3392
+Camden,2018-03-01,3610
+Camden,2018-04-01,3595
+Camden,2018-05-01,3751
+Camden,2018-06-01,3730
+Camden,2018-07-01,3978
+Camden,2018-08-01,3641
+Camden,2018-09-01,3598
+Camden,2018-10-01,3943
+Camden,2018-11-01,3882
+Camden,2018-12-01,3615
+Camden,2019-01-01,3728
+Camden,2019-02-01,3836
+Camden,2019-03-01,4315
+Camden,2019-04-01,3969
+Camden,2019-05-01,3994
+Camden,2019-06-01,3981
+Camden,2019-07-01,4099
+Camden,2019-08-01,3732
+City and County of the City of London,2017-01-01,543
+City and County of the City of London,2017-02-01,639
+City and County of the City of London,2017-03-01,732
+City and County of the City of London,2017-04-01,609
+City and County of the City of London,2017-05-01,501
+City and County of the City of London,2017-06-01,599
+City and County of the City of London,2017-07-01,589
+City and County of the City of London,2017-08-01,680
+City and County of the City of London,2017-09-01,562
+City and County of the City of London,2017-10-01,687
+City and County of the City of London,2017-11-01,655
+City and County of the City of London,2017-12-01,655
+City and County of the City of London,2018-01-01,690
+City and County of the City of London,2018-02-01,585
+City and County of the City of London,2018-03-01,716
+City and County of the City of London,2018-04-01,643
+City and County of the City of London,2018-05-01,690
+City and County of the City of London,2018-06-01,693
+City and County of the City of London,2018-07-01,719
+City and County of the City of London,2018-08-01,700
+City and County of the City of London,2018-09-01,633
+City and County of the City of London,2018-10-01,770
+City and County of the City of London,2018-11-01,771
+City and County of the City of London,2018-12-01,713
+City and County of the City of London,2019-01-01,626
+City and County of the City of London,2019-02-01,689
+City and County of the City of London,2019-03-01,862
+City and County of the City of London,2019-04-01,891
+City and County of the City of London,2019-05-01,762
+City and County of the City of London,2019-06-01,835
+City and County of the City of London,2019-07-01,863
+City and County of the City of London,2019-08-01,853
+City of Westminster,2017-01-01,5202
+City of Westminster,2017-02-01,4830
+City of Westminster,2017-03-01,5940
+City of Westminster,2017-04-01,5594
+City of Westminster,2017-05-01,6019
+City of Westminster,2017-06-01,5600
+City of Westminster,2017-07-01,6289
+City of Westminster,2017-08-01,6191
+City of Westminster,2017-09-01,5755
+City of Westminster,2017-10-01,5944
+City of Westminster,2017-11-01,5757
+City of Westminster,2017-12-01,6189
+City of Westminster,2018-01-01,5811
+City of Westminster,2018-02-01,5304
+City of Westminster,2018-03-01,5642
+City of Westminster,2018-04-01,5726
+City of Westminster,2018-05-01,6056
+City of Westminster,2018-06-01,6084
+City of Westminster,2018-07-01,6723
+City of Westminster,2018-08-01,6704
+City of Westminster,2018-09-01,6126
+City of Westminster,2018-10-01,6976
+City of Westminster,2018-11-01,7307
+City of Westminster,2018-12-01,7789
+City of Westminster,2019-01-01,7278
+City of Westminster,2019-02-01,7652
+City of Westminster,2019-03-01,8369
+City of Westminster,2019-04-01,8116
+City of Westminster,2019-05-01,7799
+City of Westminster,2019-06-01,7870
+City of Westminster,2019-07-01,7625
+City of Westminster,2019-08-01,7282
+Croydon,2017-01-01,3013
+Croydon,2017-02-01,2793
+Croydon,2017-03-01,3265
+Croydon,2017-04-01,2975
+Croydon,2017-05-01,3233
+Croydon,2017-06-01,3275
+Croydon,2017-07-01,3470
+Croydon,2017-08-01,3349
+Croydon,2017-09-01,3041
+Croydon,2017-10-01,3155
+Croydon,2017-11-01,3043
+Croydon,2017-12-01,3024
+Croydon,2018-01-01,3126
+Croydon,2018-02-01,2852
+Croydon,2018-03-01,3011
+Croydon,2018-04-01,3159
+Croydon,2018-05-01,3216
+Croydon,2018-06-01,3036
+Croydon,2018-07-01,3329
+Croydon,2018-08-01,3280
+Croydon,2018-09-01,3062
+Croydon,2018-10-01,3414
+Croydon,2018-11-01,3070
+Croydon,2018-12-01,3186
+Croydon,2019-01-01,3198
+Croydon,2019-02-01,3060
+Croydon,2019-03-01,3414
+Croydon,2019-04-01,3052
+Croydon,2019-05-01,3404
+Croydon,2019-06-01,3275
+Croydon,2019-07-01,3653
+Croydon,2019-08-01,3328
+Ealing,2017-01-01,2748
+Ealing,2017-02-01,2814
+Ealing,2017-03-01,3155
+Ealing,2017-04-01,2880
+Ealing,2017-05-01,3235
+Ealing,2017-06-01,3219
+Ealing,2017-07-01,3389
+Ealing,2017-08-01,3225
+Ealing,2017-09-01,3018
+Ealing,2017-10-01,3494
+Ealing,2017-11-01,3250
+Ealing,2017-12-01,2801
+Ealing,2018-01-01,2950
+Ealing,2018-02-01,2659
+Ealing,2018-03-01,2891
+Ealing,2018-04-01,3082
+Ealing,2018-05-01,3166
+Ealing,2018-06-01,3087
+Ealing,2018-07-01,3315
+Ealing,2018-08-01,3083
+Ealing,2018-09-01,3163
+Ealing,2018-10-01,3493
+Ealing,2018-11-01,3320
+Ealing,2018-12-01,2926
+Ealing,2019-01-01,3179
+Ealing,2019-02-01,3215
+Ealing,2019-03-01,3706
+Ealing,2019-04-01,3288
+Ealing,2019-05-01,3406
+Ealing,2019-06-01,3370
+Ealing,2019-07-01,3484
+Ealing,2019-08-01,3137
+Enfield,2017-01-01,2314
+Enfield,2017-02-01,2193
+Enfield,2017-03-01,2829
+Enfield,2017-04-01,2631
+Enfield,2017-05-01,2801
+Enfield,2017-06-01,2800
+Enfield,2017-07-01,3024
+Enfield,2017-08-01,2815
+Enfield,2017-09-01,2582
+Enfield,2017-10-01,3001
+Enfield,2017-11-01,2866
+Enfield,2017-12-01,2549
+Enfield,2018-01-01,2736
+Enfield,2018-02-01,2547
+Enfield,2018-03-01,2840
+Enfield,2018-04-01,3076
+Enfield,2018-05-01,3079
+Enfield,2018-06-01,2984
+Enfield,2018-07-01,3148
+Enfield,2018-08-01,2932
+Enfield,2018-09-01,2867
+Enfield,2018-10-01,3353
+Enfield,2018-11-01,3088
+Enfield,2018-12-01,2793
+Enfield,2019-01-01,3012
+Enfield,2019-02-01,2834
+Enfield,2019-03-01,3080
+Enfield,2019-04-01,2983
+Enfield,2019-05-01,3075
+Enfield,2019-06-01,3276
+Enfield,2019-07-01,3347
+Enfield,2019-08-01,2899
+Greenwich,2017-01-01,2470
+Greenwich,2017-02-01,2304
+Greenwich,2017-03-01,2698
+Greenwich,2017-04-01,2455
+Greenwich,2017-05-01,2722
+Greenwich,2017-06-01,2543
+Greenwich,2017-07-01,2900
+Greenwich,2017-08-01,2679
+Greenwich,2017-09-01,2532
+Greenwich,2017-10-01,2833
+Greenwich,2017-11-01,2452
+Greenwich,2017-12-01,2371
+Greenwich,2018-01-01,2390
+Greenwich,2018-02-01,2108
+Greenwich,2018-03-01,2316
+Greenwich,2018-04-01,2546
+Greenwich,2018-05-01,2755
+Greenwich,2018-06-01,2717
+Greenwich,2018-07-01,2835
+Greenwich,2018-08-01,2567
+Greenwich,2018-09-01,2625
+Greenwich,2018-10-01,2783
+Greenwich,2018-11-01,2634
+Greenwich,2018-12-01,2567
+Greenwich,2019-01-01,2576
+Greenwich,2019-02-01,2386
+Greenwich,2019-03-01,2827
+Greenwich,2019-04-01,2670
+Greenwich,2019-05-01,2848
+Greenwich,2019-06-01,2960
+Greenwich,2019-07-01,3076
+Greenwich,2019-08-01,2830
+Hackney,2017-01-01,2985
+Hackney,2017-02-01,3016
+Hackney,2017-03-01,3642
+Hackney,2017-04-01,3280
+Hackney,2017-05-01,3448
+Hackney,2017-06-01,3560
+Hackney,2017-07-01,3807
+Hackney,2017-08-01,3345
+Hackney,2017-09-01,3046
+Hackney,2017-10-01,3428
+Hackney,2017-11-01,3152
+Hackney,2017-12-01,2861
+Hackney,2018-01-01,2940
+Hackney,2018-02-01,2555
+Hackney,2018-03-01,2846
+Hackney,2018-04-01,3070
+Hackney,2018-05-01,3244
+Hackney,2018-06-01,3184
+Hackney,2018-07-01,3461
+Hackney,2018-08-01,3351
+Hackney,2018-09-01,3372
+Hackney,2018-10-01,3719
+Hackney,2018-11-01,3493
+Hackney,2018-12-01,3292
+Hackney,2019-01-01,3277
+Hackney,2019-02-01,3027
+Hackney,2019-03-01,3539
+Hackney,2019-04-01,3328
+Hackney,2019-05-01,3572
+Hackney,2019-06-01,3533
+Hackney,2019-07-01,3981
+Hackney,2019-08-01,3501
+Hammersmith and Fulham,2017-01-01,2019
+Hammersmith and Fulham,2017-02-01,1885
+Hammersmith and Fulham,2017-03-01,2295
+Hammersmith and Fulham,2017-04-01,2084
+Hammersmith and Fulham,2017-05-01,2347
+Hammersmith and Fulham,2017-06-01,2233
+Hammersmith and Fulham,2017-07-01,2488
+Hammersmith and Fulham,2017-08-01,2428
+Hammersmith and Fulham,2017-09-01,2137
+Hammersmith and Fulham,2017-10-01,2333
+Hammersmith and Fulham,2017-11-01,2498
+Hammersmith and Fulham,2017-12-01,2249
+Hammersmith and Fulham,2018-01-01,2119
+Hammersmith and Fulham,2018-02-01,2062
+Hammersmith and Fulham,2018-03-01,2119
+Hammersmith and Fulham,2018-04-01,2168
+Hammersmith and Fulham,2018-05-01,2376
+Hammersmith and Fulham,2018-06-01,2297
+Hammersmith and Fulham,2018-07-01,2456
+Hammersmith and Fulham,2018-08-01,2129
+Hammersmith and Fulham,2018-09-01,2267
+Hammersmith and Fulham,2018-10-01,2378
+Hammersmith and Fulham,2018-11-01,2224
+Hammersmith and Fulham,2018-12-01,2139
+Hammersmith and Fulham,2019-01-01,2154
+Hammersmith and Fulham,2019-02-01,2109
+Hammersmith and Fulham,2019-03-01,2412
+Hammersmith and Fulham,2019-04-01,2346
+Hammersmith and Fulham,2019-05-01,2300
+Hammersmith and Fulham,2019-06-01,2403
+Hammersmith and Fulham,2019-07-01,2474
+Hammersmith and Fulham,2019-08-01,2220
+Haringey,2017-01-01,2743
+Haringey,2017-02-01,2712
+Haringey,2017-03-01,3011
+Haringey,2017-04-01,2968
+Haringey,2017-05-01,3224
+Haringey,2017-06-01,3117
+Haringey,2017-07-01,3649
+Haringey,2017-08-01,3389
+Haringey,2017-09-01,3100
+Haringey,2017-10-01,3303
+Haringey,2017-11-01,3330
+Haringey,2017-12-01,2795
+Haringey,2018-01-01,3027
+Haringey,2018-02-01,2757
+Haringey,2018-03-01,2932
+Haringey,2018-04-01,3340
+Haringey,2018-05-01,3336
+Haringey,2018-06-01,3491
+Haringey,2018-07-01,3578
+Haringey,2018-08-01,3081
+Haringey,2018-09-01,3085
+Haringey,2018-10-01,3434
+Haringey,2018-11-01,3240
+Haringey,2018-12-01,3123
+Haringey,2019-01-01,3122
+Haringey,2019-02-01,3011
+Haringey,2019-03-01,3393
+Haringey,2019-04-01,3107
+Haringey,2019-05-01,3380
+Haringey,2019-06-01,3414
+Haringey,2019-07-01,3637
+Haringey,2019-08-01,3013
+Harrow,2017-01-01,1388
+Harrow,2017-02-01,1371
+Harrow,2017-03-01,1590
+Harrow,2017-04-01,1469
+Harrow,2017-05-01,1622
+Harrow,2017-06-01,1550
+Harrow,2017-07-01,1714
+Harrow,2017-08-01,1494
+Harrow,2017-09-01,1512
+Harrow,2017-10-01,1597
+Harrow,2017-11-01,1485
+Harrow,2017-12-01,1296
+Harrow,2018-01-01,1533
+Harrow,2018-02-01,1386
+Harrow,2018-03-01,1440
+Harrow,2018-04-01,1399
+Harrow,2018-05-01,1658
+Harrow,2018-06-01,1606
+Harrow,2018-07-01,1845
+Harrow,2018-08-01,1553
+Harrow,2018-09-01,1603
+Harrow,2018-10-01,1797
+Harrow,2018-11-01,1740
+Harrow,2018-12-01,1621
+Harrow,2019-01-01,1761
+Harrow,2019-02-01,1664
+Harrow,2019-03-01,1862
+Harrow,2019-04-01,1760
+Harrow,2019-05-01,1859
+Harrow,2019-06-01,1912
+Harrow,2019-07-01,1967
+Harrow,2019-08-01,1731
+Havering,2017-01-01,1877
+Havering,2017-02-01,1675
+Havering,2017-03-01,1995
+Havering,2017-04-01,1899
+Havering,2017-05-01,2071
+Havering,2017-06-01,1971
+Havering,2017-07-01,1963
+Havering,2017-08-01,2023
+Havering,2017-09-01,1846
+Havering,2017-10-01,1972
+Havering,2017-11-01,1941
+Havering,2017-12-01,1863
+Havering,2018-01-01,1800
+Havering,2018-02-01,1661
+Havering,2018-03-01,1928
+Havering,2018-04-01,2013
+Havering,2018-05-01,2044
+Havering,2018-06-01,1857
+Havering,2018-07-01,1942
+Havering,2018-08-01,1894
+Havering,2018-09-01,1845
+Havering,2018-10-01,1982
+Havering,2018-11-01,1965
+Havering,2018-12-01,1836
+Havering,2019-01-01,1825
+Havering,2019-02-01,1755
+Havering,2019-03-01,1934
+Havering,2019-04-01,1881
+Havering,2019-05-01,2041
+Havering,2019-06-01,1882
+Havering,2019-07-01,2053
+Havering,2019-08-01,1861
+Hillingdon,2017-01-01,2685
+Hillingdon,2017-02-01,2666
+Hillingdon,2017-03-01,3195
+Hillingdon,2017-04-01,2717
+Hillingdon,2017-05-01,3218
+Hillingdon,2017-06-01,2943
+Hillingdon,2017-07-01,3143
+Hillingdon,2017-08-01,2994
+Hillingdon,2017-09-01,2954
+Hillingdon,2017-10-01,3231
+Hillingdon,2017-11-01,3008
+Hillingdon,2017-12-01,3030
+Hillingdon,2018-01-01,2878
+Hillingdon,2018-02-01,2686
+Hillingdon,2018-03-01,3032
+Hillingdon,2018-04-01,2865
+Hillingdon,2018-05-01,2978
+Hillingdon,2018-06-01,2934
+Hillingdon,2018-07-01,3207
+Hillingdon,2018-08-01,2894
+Hillingdon,2018-09-01,2821
+Hillingdon,2018-10-01,3185
+Hillingdon,2018-11-01,3227
+Hillingdon,2018-12-01,2976
+Hillingdon,2019-01-01,3048
+Hillingdon,2019-02-01,2949
+Hillingdon,2019-03-01,3125
+Hillingdon,2019-04-01,3057
+Hillingdon,2019-05-01,3069
+Hillingdon,2019-06-01,3225
+Hillingdon,2019-07-01,3220
+Hillingdon,2019-08-01,3163
+Hounslow,2017-01-01,2322
+Hounslow,2017-02-01,2240
+Hounslow,2017-03-01,2682
+Hounslow,2017-04-01,2416
+Hounslow,2017-05-01,2751
+Hounslow,2017-06-01,2647
+Hounslow,2017-07-01,2851
+Hounslow,2017-08-01,2809
+Hounslow,2017-09-01,2603
+Hounslow,2017-10-01,2825
+Hounslow,2017-11-01,2734
+Hounslow,2017-12-01,2416
+Hounslow,2018-01-01,2585
+Hounslow,2018-02-01,2317
+Hounslow,2018-03-01,2575
+Hounslow,2018-04-01,2669
+Hounslow,2018-05-01,2704
+Hounslow,2018-06-01,2649
+Hounslow,2018-07-01,2926
+Hounslow,2018-08-01,2538
+Hounslow,2018-09-01,2601
+Hounslow,2018-10-01,3004
+Hounslow,2018-11-01,2762
+Hounslow,2018-12-01,2664
+Hounslow,2019-01-01,2584
+Hounslow,2019-02-01,2656
+Hounslow,2019-03-01,2970
+Hounslow,2019-04-01,2691
+Hounslow,2019-05-01,2655
+Hounslow,2019-06-01,2810
+Hounslow,2019-07-01,2903
+Hounslow,2019-08-01,2523
+Islington,2017-01-01,2824
+Islington,2017-02-01,2788
+Islington,2017-03-01,3485
+Islington,2017-04-01,2887
+Islington,2017-05-01,3473
+Islington,2017-06-01,3652
+Islington,2017-07-01,3748
+Islington,2017-08-01,3520
+Islington,2017-09-01,3281
+Islington,2017-10-01,3468
+Islington,2017-11-01,3106
+Islington,2017-12-01,2925
+Islington,2018-01-01,3052
+Islington,2018-02-01,2439
+Islington,2018-03-01,2574
+Islington,2018-04-01,2904
+Islington,2018-05-01,2877
+Islington,2018-06-01,3022
+Islington,2018-07-01,3337
+Islington,2018-08-01,2872
+Islington,2018-09-01,2884
+Islington,2018-10-01,3389
+Islington,2018-11-01,2916
+Islington,2018-12-01,2810
+Islington,2019-01-01,3025
+Islington,2019-02-01,2764
+Islington,2019-03-01,3082
+Islington,2019-04-01,3082
+Islington,2019-05-01,3113
+Islington,2019-06-01,2899
+Islington,2019-07-01,3442
+Islington,2019-08-01,2918
+Kensington and Chelsea,2017-01-01,1853
+Kensington and Chelsea,2017-02-01,1647
+Kensington and Chelsea,2017-03-01,2122
+Kensington and Chelsea,2017-04-01,2008
+Kensington and Chelsea,2017-05-01,2231
+Kensington and Chelsea,2017-06-01,2098
+Kensington and Chelsea,2017-07-01,2364
+Kensington and Chelsea,2017-08-01,2848
+Kensington and Chelsea,2017-09-01,2135
+Kensington and Chelsea,2017-10-01,2098
+Kensington and Chelsea,2017-11-01,2173
+Kensington and Chelsea,2017-12-01,2029
+Kensington and Chelsea,2018-01-01,2023
+Kensington and Chelsea,2018-02-01,2005
+Kensington and Chelsea,2018-03-01,2026
+Kensington and Chelsea,2018-04-01,2014
+Kensington and Chelsea,2018-05-01,2080
+Kensington and Chelsea,2018-06-01,2206
+Kensington and Chelsea,2018-07-01,2281
+Kensington and Chelsea,2018-08-01,2608
+Kensington and Chelsea,2018-09-01,1988
+Kensington and Chelsea,2018-10-01,2133
+Kensington and Chelsea,2018-11-01,2164
+Kensington and Chelsea,2018-12-01,2087
+Kensington and Chelsea,2019-01-01,2052
+Kensington and Chelsea,2019-02-01,2056
+Kensington and Chelsea,2019-03-01,2374
+Kensington and Chelsea,2019-04-01,2150
+Kensington and Chelsea,2019-05-01,2270
+Kensington and Chelsea,2019-06-01,2461
+Kensington and Chelsea,2019-07-01,2439
+Kensington and Chelsea,2019-08-01,2823
+Kingston upon Thames,2017-01-01,1165
+Kingston upon Thames,2017-02-01,1065
+Kingston upon Thames,2017-03-01,1210
+Kingston upon Thames,2017-04-01,1149
+Kingston upon Thames,2017-05-01,1255
+Kingston upon Thames,2017-06-01,1122
+Kingston upon Thames,2017-07-01,1249
+Kingston upon Thames,2017-08-01,1262
+Kingston upon Thames,2017-09-01,1172
+Kingston upon Thames,2017-10-01,1307
+Kingston upon Thames,2017-11-01,1334
+Kingston upon Thames,2017-12-01,1082
+Kingston upon Thames,2018-01-01,1189
+Kingston upon Thames,2018-02-01,1094
+Kingston upon Thames,2018-03-01,1163
+Kingston upon Thames,2018-04-01,1201
+Kingston upon Thames,2018-05-01,1221
+Kingston upon Thames,2018-06-01,1150
+Kingston upon Thames,2018-07-01,1305
+Kingston upon Thames,2018-08-01,1364
+Kingston upon Thames,2018-09-01,1221
+Kingston upon Thames,2018-10-01,1487
+Kingston upon Thames,2018-11-01,1360
+Kingston upon Thames,2018-12-01,1188
+Kingston upon Thames,2019-01-01,1279
+Kingston upon Thames,2019-02-01,1237
+Kingston upon Thames,2019-03-01,1316
+Kingston upon Thames,2019-04-01,1340
+Kingston upon Thames,2019-05-01,1315
+Kingston upon Thames,2019-06-01,1262
+Kingston upon Thames,2019-07-01,1362
+Kingston upon Thames,2019-08-01,1245
+Lambeth,2017-01-01,3530
+Lambeth,2017-02-01,3000
+Lambeth,2017-03-01,3554
+Lambeth,2017-04-01,3477
+Lambeth,2017-05-01,3693
+Lambeth,2017-06-01,3729
+Lambeth,2017-07-01,4275
+Lambeth,2017-08-01,4148
+Lambeth,2017-09-01,3588
+Lambeth,2017-10-01,3919
+Lambeth,2017-11-01,3712
+Lambeth,2017-12-01,3158
+Lambeth,2018-01-01,3496
+Lambeth,2018-02-01,3140
+Lambeth,2018-03-01,3433
+Lambeth,2018-04-01,3584
+Lambeth,2018-05-01,3813
+Lambeth,2018-06-01,3854
+Lambeth,2018-07-01,4161
+Lambeth,2018-08-01,3669
+Lambeth,2018-09-01,3522
+Lambeth,2018-10-01,3737
+Lambeth,2018-11-01,3699
+Lambeth,2018-12-01,3302
+Lambeth,2019-01-01,3337
+Lambeth,2019-02-01,3398
+Lambeth,2019-03-01,3817
+Lambeth,2019-04-01,3466
+Lambeth,2019-05-01,3804
+Lambeth,2019-06-01,3782
+Lambeth,2019-07-01,4042
+Lambeth,2019-08-01,3692
+Lewisham,2017-01-01,2323
+Lewisham,2017-02-01,2320
+Lewisham,2017-03-01,2744
+Lewisham,2017-04-01,2492
+Lewisham,2017-05-01,2743
+Lewisham,2017-06-01,2588
+Lewisham,2017-07-01,2783
+Lewisham,2017-08-01,2814
+Lewisham,2017-09-01,2658
+Lewisham,2017-10-01,2576
+Lewisham,2017-11-01,2498
+Lewisham,2017-12-01,2459
+Lewisham,2018-01-01,2636
+Lewisham,2018-02-01,2216
+Lewisham,2018-03-01,2491
+Lewisham,2018-04-01,2552
+Lewisham,2018-05-01,2805
+Lewisham,2018-06-01,2663
+Lewisham,2018-07-01,2974
+Lewisham,2018-08-01,2707
+Lewisham,2018-09-01,2601
+Lewisham,2018-10-01,2951
+Lewisham,2018-11-01,2699
+Lewisham,2018-12-01,2662
+Lewisham,2019-01-01,2662
+Lewisham,2019-02-01,2546
+Lewisham,2019-03-01,2945
+Lewisham,2019-04-01,2727
+Lewisham,2019-05-01,3197
+Lewisham,2019-06-01,2999
+Lewisham,2019-07-01,3116
+Lewisham,2019-08-01,2989
+Merton,2017-01-01,1313
+Merton,2017-02-01,1317
+Merton,2017-03-01,1398
+Merton,2017-04-01,1321
+Merton,2017-05-01,1536
+Merton,2017-06-01,1471
+Merton,2017-07-01,1535
+Merton,2017-08-01,1458
+Merton,2017-09-01,1447
+Merton,2017-10-01,1472
+Merton,2017-11-01,1421
+Merton,2017-12-01,1369
+Merton,2018-01-01,1402
+Merton,2018-02-01,1300
+Merton,2018-03-01,1282
+Merton,2018-04-01,1392
+Merton,2018-05-01,1508
+Merton,2018-06-01,1398
+Merton,2018-07-01,1521
+Merton,2018-08-01,1478
+Merton,2018-09-01,1332
+Merton,2018-10-01,1543
+Merton,2018-11-01,1473
+Merton,2018-12-01,1529
+Merton,2019-01-01,1483
+Merton,2019-02-01,1305
+Merton,2019-03-01,1516
+Merton,2019-04-01,1469
+Merton,2019-05-01,1459
+Merton,2019-06-01,1497
+Merton,2019-07-01,1616
+Merton,2019-08-01,1539
+Newham,2017-01-01,3131
+Newham,2017-02-01,2965
+Newham,2017-03-01,3714
+Newham,2017-04-01,3439
+Newham,2017-05-01,3426
+Newham,2017-06-01,3494
+Newham,2017-07-01,3908
+Newham,2017-08-01,3571
+Newham,2017-09-01,3462
+Newham,2017-10-01,3759
+Newham,2017-11-01,3617
+Newham,2017-12-01,3245
+Newham,2018-01-01,3447
+Newham,2018-02-01,3022
+Newham,2018-03-01,3438
+Newham,2018-04-01,3476
+Newham,2018-05-01,3604
+Newham,2018-06-01,3818
+Newham,2018-07-01,3897
+Newham,2018-08-01,3625
+Newham,2018-09-01,3529
+Newham,2018-10-01,3843
+Newham,2018-11-01,3717
+Newham,2018-12-01,3478
+Newham,2019-01-01,3378
+Newham,2019-02-01,3382
+Newham,2019-03-01,3619
+Newham,2019-04-01,3390
+Newham,2019-05-01,3748
+Newham,2019-06-01,3915
+Newham,2019-07-01,3942
+Newham,2019-08-01,3522
+Redbridge,2017-01-01,2206
+Redbridge,2017-02-01,2093
+Redbridge,2017-03-01,2467
+Redbridge,2017-04-01,2244
+Redbridge,2017-05-01,2598
+Redbridge,2017-06-01,2583
+Redbridge,2017-07-01,2687
+Redbridge,2017-08-01,2529
+Redbridge,2017-09-01,2600
+Redbridge,2017-10-01,2713
+Redbridge,2017-11-01,2393
+Redbridge,2017-12-01,2282
+Redbridge,2018-01-01,2526
+Redbridge,2018-02-01,2201
+Redbridge,2018-03-01,2288
+Redbridge,2018-04-01,2489
+Redbridge,2018-05-01,2368
+Redbridge,2018-06-01,2450
+Redbridge,2018-07-01,2640
+Redbridge,2018-08-01,2236
+Redbridge,2018-09-01,2353
+Redbridge,2018-10-01,2634
+Redbridge,2018-11-01,2543
+Redbridge,2018-12-01,2379
+Redbridge,2019-01-01,2430
+Redbridge,2019-02-01,2353
+Redbridge,2019-03-01,2477
+Redbridge,2019-04-01,2397
+Redbridge,2019-05-01,2478
+Redbridge,2019-06-01,2500
+Redbridge,2019-07-01,2479
+Redbridge,2019-08-01,2280
+Richmond upon Thames,2017-01-01,1184
+Richmond upon Thames,2017-02-01,1172
+Richmond upon Thames,2017-03-01,1364
+Richmond upon Thames,2017-04-01,1315
+Richmond upon Thames,2017-05-01,1547
+Richmond upon Thames,2017-06-01,1469
+Richmond upon Thames,2017-07-01,1607
+Richmond upon Thames,2017-08-01,1425
+Richmond upon Thames,2017-09-01,1420
+Richmond upon Thames,2017-10-01,1435
+Richmond upon Thames,2017-11-01,1405
+Richmond upon Thames,2017-12-01,1173
+Richmond upon Thames,2018-01-01,1222
+Richmond upon Thames,2018-02-01,1131
+Richmond upon Thames,2018-03-01,1255
+Richmond upon Thames,2018-04-01,1270
+Richmond upon Thames,2018-05-01,1364
+Richmond upon Thames,2018-06-01,1298
+Richmond upon Thames,2018-07-01,1522
+Richmond upon Thames,2018-08-01,1353
+Richmond upon Thames,2018-09-01,1242
+Richmond upon Thames,2018-10-01,1460
+Richmond upon Thames,2018-11-01,1415
+Richmond upon Thames,2018-12-01,1248
+Richmond upon Thames,2019-01-01,1290
+Richmond upon Thames,2019-02-01,1193
+Richmond upon Thames,2019-03-01,1376
+Richmond upon Thames,2019-04-01,1360
+Richmond upon Thames,2019-05-01,1360
+Richmond upon Thames,2019-06-01,1325
+Richmond upon Thames,2019-07-01,1373
+Richmond upon Thames,2019-08-01,1257
+Southwark,2017-01-01,3229
+Southwark,2017-02-01,3016
+Southwark,2017-03-01,3403
+Southwark,2017-04-01,3137
+Southwark,2017-05-01,3475
+Southwark,2017-06-01,3502
+Southwark,2017-07-01,3792
+Southwark,2017-08-01,3745
+Southwark,2017-09-01,3496
+Southwark,2017-10-01,3835
+Southwark,2017-11-01,3740
+Southwark,2017-12-01,3127
+Southwark,2018-01-01,3323
+Southwark,2018-02-01,3011
+Southwark,2018-03-01,3254
+Southwark,2018-04-01,3642
+Southwark,2018-05-01,3715
+Southwark,2018-06-01,3630
+Southwark,2018-07-01,4071
+Southwark,2018-08-01,3721
+Southwark,2018-09-01,3558
+Southwark,2018-10-01,4107
+Southwark,2018-11-01,3852
+Southwark,2018-12-01,3490
+Southwark,2019-01-01,3567
+Southwark,2019-02-01,3499
+Southwark,2019-03-01,4116
+Southwark,2019-04-01,3853
+Southwark,2019-05-01,4026
+Southwark,2019-06-01,4044
+Southwark,2019-07-01,4072
+Southwark,2019-08-01,3910
+Sutton,2017-01-01,1179
+Sutton,2017-02-01,1106
+Sutton,2017-03-01,1241
+Sutton,2017-04-01,1164
+Sutton,2017-05-01,1417
+Sutton,2017-06-01,1398
+Sutton,2017-07-01,1230
+Sutton,2017-08-01,1215
+Sutton,2017-09-01,1284
+Sutton,2017-10-01,1315
+Sutton,2017-11-01,1165
+Sutton,2017-12-01,1138
+Sutton,2018-01-01,1256
+Sutton,2018-02-01,1034
+Sutton,2018-03-01,1177
+Sutton,2018-04-01,1232
+Sutton,2018-05-01,1160
+Sutton,2018-06-01,1280
+Sutton,2018-07-01,1375
+Sutton,2018-08-01,1307
+Sutton,2018-09-01,1173
+Sutton,2018-10-01,1403
+Sutton,2018-11-01,1281
+Sutton,2018-12-01,1326
+Sutton,2019-01-01,1339
+Sutton,2019-02-01,1328
+Sutton,2019-03-01,1411
+Sutton,2019-04-01,1480
+Sutton,2019-05-01,1565
+Sutton,2019-06-01,1448
+Sutton,2019-07-01,1508
+Sutton,2019-08-01,1543
+Tower Hamlets,2017-01-01,3396
+Tower Hamlets,2017-02-01,3321
+Tower Hamlets,2017-03-01,3619
+Tower Hamlets,2017-04-01,3758
+Tower Hamlets,2017-05-01,3817
+Tower Hamlets,2017-06-01,3712
+Tower Hamlets,2017-07-01,4290
+Tower Hamlets,2017-08-01,3836
+Tower Hamlets,2017-09-01,3557
+Tower Hamlets,2017-10-01,3937
+Tower Hamlets,2017-11-01,3449
+Tower Hamlets,2017-12-01,3070
+Tower Hamlets,2018-01-01,3606
+Tower Hamlets,2018-02-01,3042
+Tower Hamlets,2018-03-01,3534
+Tower Hamlets,2018-04-01,4036
+Tower Hamlets,2018-05-01,3999
+Tower Hamlets,2018-06-01,4085
+Tower Hamlets,2018-07-01,4371
+Tower Hamlets,2018-08-01,4077
+Tower Hamlets,2018-09-01,3862
+Tower Hamlets,2018-10-01,4095
+Tower Hamlets,2018-11-01,3889
+Tower Hamlets,2018-12-01,3533
+Tower Hamlets,2019-01-01,3658
+Tower Hamlets,2019-02-01,3603
+Tower Hamlets,2019-03-01,4294
+Tower Hamlets,2019-04-01,3898
+Tower Hamlets,2019-05-01,4173
+Tower Hamlets,2019-06-01,4398
+Tower Hamlets,2019-07-01,4504
+Tower Hamlets,2019-08-01,4084
+Waltham Forest,2017-01-01,2263
+Waltham Forest,2017-02-01,2188
+Waltham Forest,2017-03-01,2545
+Waltham Forest,2017-04-01,2306
+Waltham Forest,2017-05-01,2540
+Waltham Forest,2017-06-01,2618
+Waltham Forest,2017-07-01,2636
+Waltham Forest,2017-08-01,2349
+Waltham Forest,2017-09-01,2428
+Waltham Forest,2017-10-01,2623
+Waltham Forest,2017-11-01,2487
+Waltham Forest,2017-12-01,2129
+Waltham Forest,2018-01-01,2322
+Waltham Forest,2018-02-01,2223
+Waltham Forest,2018-03-01,2389
+Waltham Forest,2018-04-01,2433
+Waltham Forest,2018-05-01,2472
+Waltham Forest,2018-06-01,2558
+Waltham Forest,2018-07-01,2642
+Waltham Forest,2018-08-01,2478
+Waltham Forest,2018-09-01,2494
+Waltham Forest,2018-10-01,2790
+Waltham Forest,2018-11-01,2618
+Waltham Forest,2018-12-01,2393
+Waltham Forest,2019-01-01,2509
+Waltham Forest,2019-02-01,2301
+Waltham Forest,2019-03-01,2499
+Waltham Forest,2019-04-01,2376
+Waltham Forest,2019-05-01,2628
+Waltham Forest,2019-06-01,2593
+Waltham Forest,2019-07-01,2524
+Waltham Forest,2019-08-01,2395
+Wandsworth,2017-01-01,2215
+Wandsworth,2017-02-01,2142
+Wandsworth,2017-03-01,2532
+Wandsworth,2017-04-01,2355
+Wandsworth,2017-05-01,2734
+Wandsworth,2017-06-01,2656
+Wandsworth,2017-07-01,2899
+Wandsworth,2017-08-01,2512
+Wandsworth,2017-09-01,2523
+Wandsworth,2017-10-01,2811
+Wandsworth,2017-11-01,2645
+Wandsworth,2017-12-01,2534
+Wandsworth,2018-01-01,2511
+Wandsworth,2018-02-01,2382
+Wandsworth,2018-03-01,2437
+Wandsworth,2018-04-01,2534
+Wandsworth,2018-05-01,2692
+Wandsworth,2018-06-01,2789
+Wandsworth,2018-07-01,2998
+Wandsworth,2018-08-01,2515
+Wandsworth,2018-09-01,2542
+Wandsworth,2018-10-01,2757
+Wandsworth,2018-11-01,2668
+Wandsworth,2018-12-01,2354
+Wandsworth,2019-01-01,2565
+Wandsworth,2019-02-01,2486
+Wandsworth,2019-03-01,2629
+Wandsworth,2019-04-01,2545
+Wandsworth,2019-05-01,2684
+Wandsworth,2019-06-01,2692
+Wandsworth,2019-07-01,2839
+Wandsworth,2019-08-01,2568
